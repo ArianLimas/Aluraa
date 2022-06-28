@@ -1,2 +1,2 @@
-# Aluraa
+# Alura
 Exercícios feitos em Java
